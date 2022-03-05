@@ -1,4 +1,4 @@
-## olã! Eu sou Aldo Gonçalves 
+## olá! Eu sou Aldo Gonçalves 
 
 - 📚  Estudando Vuejs
 - 👨‍💻 Hoje trabalho com front-end
