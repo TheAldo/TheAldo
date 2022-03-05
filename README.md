@@ -1,4 +1,4 @@
-## Olá! Eu sou Aldo Gonçalves,seja bem vindo ao meu github.
+## Olá! Eu sou Aldo Gonçalves, seja bem vindo ao meu github.
 - 📚  Estudando Vuejs
 - 👨‍💻 Hoje trabalho com front-end
 - 📫 aldo.santos@ftc.edu.br
